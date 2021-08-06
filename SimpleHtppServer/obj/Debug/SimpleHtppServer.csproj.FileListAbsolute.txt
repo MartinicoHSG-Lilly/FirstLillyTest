@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\NewSimpleHtppServer\SimpleHtppServer\SimpleHtppServer\bin\Debug\SimpleHtppServer.exe.config
+C:\Users\Administrator\Desktop\NewSimpleHtppServer\SimpleHtppServer\SimpleHtppServer\bin\Debug\SimpleHtppServer.exe
+C:\Users\Administrator\Desktop\NewSimpleHtppServer\SimpleHtppServer\SimpleHtppServer\bin\Debug\SimpleHtppServer.pdb
+C:\Users\Administrator\Desktop\NewSimpleHtppServer\SimpleHtppServer\SimpleHtppServer\obj\Debug\SimpleHtppServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NewSimpleHtppServer\SimpleHtppServer\SimpleHtppServer\obj\Debug\SimpleHtppServer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\NewSimpleHtppServer\SimpleHtppServer\SimpleHtppServer\obj\Debug\SimpleHtppServer.exe
+C:\Users\Administrator\Desktop\NewSimpleHtppServer\SimpleHtppServer\SimpleHtppServer\obj\Debug\SimpleHtppServer.pdb
+C:\Users\Administrator\Desktop\NewSimpleHtppServer\SimpleHtppServer\SimpleHtppServer\obj\Debug\SimpleHtppServer.csprojAssemblyReference.cache

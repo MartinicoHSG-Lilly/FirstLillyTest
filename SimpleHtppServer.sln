@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHtppServer", "SimpleHtppServer\SimpleHtppServer.csproj", "{C866A88E-DBDD-485C-91AD-9B1387A5FAE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C866A88E-DBDD-485C-91AD-9B1387A5FAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C866A88E-DBDD-485C-91AD-9B1387A5FAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C866A88E-DBDD-485C-91AD-9B1387A5FAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C866A88E-DBDD-485C-91AD-9B1387A5FAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45201747-7595-4911-B8E7-EA70B024BA9E}
+	EndGlobalSection
+EndGlobal
