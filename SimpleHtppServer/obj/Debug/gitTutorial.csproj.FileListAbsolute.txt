@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\FirstLillyTest\SimpleHtppServer\bin\Debug\SimpleHtppServer.exe.config
+C:\Users\Administrator\source\repos\FirstLillyTest\SimpleHtppServer\bin\Debug\SimpleHtppServer.exe
+C:\Users\Administrator\source\repos\FirstLillyTest\SimpleHtppServer\bin\Debug\SimpleHtppServer.pdb
+C:\Users\Administrator\source\repos\FirstLillyTest\SimpleHtppServer\obj\Debug\gitTutorial.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\FirstLillyTest\SimpleHtppServer\obj\Debug\SimpleHtppServer.Properties.Resources.resources
+C:\Users\Administrator\source\repos\FirstLillyTest\SimpleHtppServer\obj\Debug\gitTutorial.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FirstLillyTest\SimpleHtppServer\obj\Debug\gitTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FirstLillyTest\SimpleHtppServer\obj\Debug\SimpleHtppServer.exe
+C:\Users\Administrator\source\repos\FirstLillyTest\SimpleHtppServer\obj\Debug\SimpleHtppServer.pdb
