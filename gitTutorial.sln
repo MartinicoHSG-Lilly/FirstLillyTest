@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHtppServer", "SimpleHtppServer\SimpleHtppServer.csproj", "{C866A88E-DBDD-485C-91AD-9B1387A5FAE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitTutorial", "SimpleHtppServer\gitTutorial.csproj", "{C866A88E-DBDD-485C-91AD-9B1387A5FAE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
